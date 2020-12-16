@@ -1,5 +1,5 @@
 
-# React If
+# React If2
 
 [![npm badge](http://img.shields.io/npm/v/react-if.svg)](https://www.npmjs.com/package/react-if)
 [![Build Status](https://travis-ci.org/romac/react-if.svg?branch=master&style=flat)](https://travis-ci.org/romac/react-if)
